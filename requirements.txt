@@ -1,6 +1,5 @@
 streamlit
-pdfplumber
-docx2txt
-nltk
-joblib
+pandas
+numpy
 scikit-learn
+joblib
