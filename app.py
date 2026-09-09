@@ -5,7 +5,6 @@ Run with:  streamlit run app.py
 import json
 from pathlib import Path
 
-import joblib
 import numpy as np
 import pandas as pd
 import streamlit as st
