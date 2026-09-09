@@ -3,6 +3,7 @@ Alzheimer's Disease Risk Prediction — Deployment App
 Run with:  streamlit run app.py
 """
 import json
+import joblib
 from pathlib import Path
 
 import numpy as np
